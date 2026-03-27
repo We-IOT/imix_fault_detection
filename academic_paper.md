@@ -601,10 +601,11 @@ python limix_fault_detection/test_detection.py
 
 **作者信息**：
 
-- 机构：LimiX 工业故障诊断研究组
-- 日期：2024 年 3 月
-- 联系方式：research@limix-ai.com
+- 机构：微妙捂脸人工智能实验室
+- 日期：2026 年 3 月
+- 联系方式：gaoshine2008@qq.com
 
-**代码开源地址**：https://github.com/LimiX-Research/FaultDetection
+**代码开源地址**：https://github.com/We-IOT/imix_fault_detection
 
-**数据开源地址**：https://huggingface.co/datasets/limix/fault-detection-sensor
+**数据开源地址**：https://github.com/We-IOT/imix_fault_detection/tree/main/data/raw
+
